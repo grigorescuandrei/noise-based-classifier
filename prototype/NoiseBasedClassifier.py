@@ -1,0 +1,3 @@
+"""
+NoiseBasedClassifier class definition
+"""
