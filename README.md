@@ -2,6 +2,7 @@
 
 ## Repo contents
 Example data and notebooks are offered in ``examples`` folder
+
 Idea and results are also presented as a paper in ``paper`` folder
 
 ## Description
